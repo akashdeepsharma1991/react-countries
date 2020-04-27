@@ -1,0 +1,6 @@
+module Pods_CountriesApp {
+  umbrella header "Pods-CountriesApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
